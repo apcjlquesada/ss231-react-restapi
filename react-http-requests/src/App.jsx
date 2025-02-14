@@ -58,7 +58,7 @@ const App = () => {
   return (
     <Router> {/* Wrap with Router */}
       <div className="container">
-        <h1>React REST API Example</h1>
+        <h1>WEBPROG SS231 React REST API Example</h1>
 
         {/* Navigation (optional) */}
         <nav>
